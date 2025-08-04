@@ -1,7 +1,7 @@
 {
   "listName": "Statehub",
   "listDescription": "Statehub official modules",
-  "listUrl": "https://statehub.mundoborrego.com/sources.0.json",
+  "listUrl": "https://raw.githubusercontent.com/statehub-server/official-sources/refs/heads/main/sources.0.json",
   "repositories": {
     "@statehub.pingpong": "https://github.com/statehub-server/pingpong/releases/download/v1.0.0/module.zip"
   },

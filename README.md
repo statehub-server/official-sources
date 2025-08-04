@@ -89,7 +89,6 @@ Modules should follow the scoped package naming convention:
 
 - **Issues**: Open an issue in this repository for registry-related problems
 - **Module Development**: Check the main Statehub documentation
-- **Community**: Join our community discussions
 
 ## License
 
