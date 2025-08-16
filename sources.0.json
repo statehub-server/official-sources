@@ -3,7 +3,7 @@
   "listDescription": "Statehub official modules",
   "listUrl": "https://raw.githubusercontent.com/statehub-server/official-sources/refs/heads/main/sources.0.json",
   "repositories": {
-    "@statehub/pingpong": "https://github.com/statehub-server/pingpong/releases/download/v2.2.0/module.zip"
+    "@statehub/pingpong": "http://github.com/statehub-server/pingpong/releases/latest/download/module.zip"
   },
   "maintainers": {
     "Olivia Navarro": "nanom@riseup.net"
